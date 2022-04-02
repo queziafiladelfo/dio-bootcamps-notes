@@ -34,7 +34,8 @@ body {
 
 #navbar header{
     padding: 20px 0px;
-    background-color: var(--bc-header);
+    /*background-color: var(--bc-header);*/
+    background-color: #333333;
     border-bottom: 2px solid #FFFFFF;
     /* margin-bottom: 5px; */
 }
@@ -95,7 +96,8 @@ nav ul li:hover {
     padding: 25px;
     letter-spacing: 1px;
     line-height: 1.3;
-    background-color: var(--bc-color);
+    /*background-color: var(--bc-color#5E2750);*/
+    background-color: #5E2750;
     width: 80%;
     height: 100%;
     position: fixed;
